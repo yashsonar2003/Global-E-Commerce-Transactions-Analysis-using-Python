@@ -14,8 +14,8 @@ A small number of countries generate the majority of total revenue, indicating t
 
 2) High-Performing Categories:
 Electronics and Travel contribute the highest sales value due to:
-- Higher Average Order Values.
-- Frequent Premium Purchases.
+  - Higher Average Order Values.
+  - Frequent Premium Purchases.
 
 3) Premium & Luxury Orders:
 Although fewer in number, Premium and Luxury orders contribute **disproportionately high revenue**, making them critical for profitability.
@@ -42,8 +42,8 @@ The 25–45 age group dominates transaction volume, making them the **Primary Ta
 # Geographic Insights:-
 1) Urban Contribution:
 Urban cities generate the highest order values due to:
-- Higher Purchasing Power.
-- Better Delivery Infrastructure.
+  - Higher Purchasing Power.
+  - Better Delivery Infrastructure.
 
 2) Domestic vs International:
 International transactions show higher average order values compared to domestic ones.
@@ -82,20 +82,20 @@ Certain delivery types show inefficiencies, affecting cost and customer experien
 
 # Strategic Recommendations:-
 1) Promote Repeat Purchases:
-- Introduce loyalty programs.
-- Use personalized offers and recommendations.
+  - Introduce loyalty programs.
+  - Use personalized offers and recommendations.
 
 2) Optimize Delivery Performance:
-- Expand express delivery services.
-- Improve logistics in high-delay regions.
+  - Expand express delivery services.
+  - Improve logistics in high-delay regions.
 
 3) Reduce Returns:
-- Improve product descriptions and visuals.
-- Strengthen quality control for high-return categories.
+  - Improve product descriptions and visuals.
+  - Strengthen quality control for high-return categories.
 
 4) Focus on High-Value Segments:
-- Target premium customers with exclusive offers.
-- Upsell and bundle Electronics and Travel products.
+  - Target premium customers with exclusive offers.
+  - Upsell and bundle Electronics and Travel products.
 
 -----
 
