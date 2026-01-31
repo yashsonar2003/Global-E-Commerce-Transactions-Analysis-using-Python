@@ -1,6 +1,8 @@
-# Global E-Commerce Transactions Analysis Using Python
+### Global E-Commerce Transactions Analysis Using Python
 
-### Business Insights & Strategic Recommendations:-
+-----
+
+# Business Insights & Strategic Recommendations:-
 
 # Executive Summary:-
 This analysis examines Global E-Commerce Transactions to understand **Customer Behavior, Revenue Generation, Operational Efficiency and Operational Performance** across multiple countries and product categories.
